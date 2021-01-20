@@ -9,7 +9,7 @@ decode_address(short instruction)
 }
 
 uint8_t
-decode_char(short instruction)
+decode_byte(short instruction)
 {
 	return instruction&0x00FF;
 }

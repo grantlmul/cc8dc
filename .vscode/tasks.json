@@ -6,7 +6,7 @@
 		{
 			"label": "debug",
 			"type": "shell",
-			"command": "clang -g main.c opdecode.c -o cc8dc",
+			"command": "clang -g main.c opdecode.c -o cc8dc -std=c11",
 			"problemMatcher": [],
 			"group": {
 				"kind": "build",

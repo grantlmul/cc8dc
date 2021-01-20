@@ -1,3 +1,10 @@
+  _____________________
+ /                     \
+| C  CHIP-8 De-Compiler |
+ \_____________________/
+
+disassembler probably is more accurate but hey its named this
+
 Return codes:
 3 - no rom file specified
 4 - rom file could not be opened/found
